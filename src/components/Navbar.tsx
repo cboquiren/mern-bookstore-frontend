@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { RiHome2Line } from "react-icons/ri";
 import { FaSearch } from "react-icons/fa";
